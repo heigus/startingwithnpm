@@ -11,6 +11,7 @@
     "node",
     "npm"
   ],
+<<<<<<< HEAD
   "author": "jsebfuer",
   "license": "MIT",
   "bin": {
@@ -25,4 +26,12 @@
     "url": "https://github.com/heigus/startingwithnpm/issues"
   },
   "homepage": "https://github.com/heigus/startingwithnpm#readme"
+=======
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+>>>>>>> 973b5c09504414c4fbc30f544b2ac1c18b35fa85
 }
