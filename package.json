@@ -11,10 +11,18 @@
     "node",
     "npm"
   ],
-  "author": "",
+  "author": "jsebfuer",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heigus/startingwithnpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heigus/startingwithnpm/issues"
+  },
+  "homepage": "https://github.com/heigus/startingwithnpm#readme"
 }
